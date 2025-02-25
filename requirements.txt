@@ -3,4 +3,3 @@ numpy
 kaggle
 scikit-learn
 streamlit
-pyhealth
